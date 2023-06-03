@@ -9,3 +9,10 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 
 ![addtwonumber1](https://github.com/MateoDev97/AddTwoNumbersExcersiceSwift/assets/25846938/60b9c8d0-9fef-4977-88df-d5d5f7ff7f3d)
+
+
+```
+Input: l1 = [2,4,3], l2 = [5,6,4]
+Output: [7,0,8]
+Explanation: 342 + 465 = 807.
+```
